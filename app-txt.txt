@@ -1,0 +1,19 @@
+PORTFOLIO WEBSITE
+
+Files
+- index.html: Trang portfolio, nội dung tiếng Việt.
+- style.css: Giao diện responsive và hiệu ứng.
+- script.js: Menu điện thoại và năm hiện tại ở chân trang.
+
+Chạy website
+Mở index.html bằng trình duyệt. Website không cần cài package hay build.
+
+Tùy chỉnh nhanh
+1. Tên portfolio hiện tại: Proxgame.
+2. Email liên hệ hiện tại: longnpdevmobile@gmail.com.
+3. Thay mô tả, số liệu, kỹ năng và nội dung các dự án bằng thông tin của bạn.
+4. Cập nhật đường dẫn mạng xã hội tại các liên kết ở chân trang.
+
+Ghi chú
+- Font Manrope và DM Mono được tải từ Google Fonts; nếu không có mạng, website dùng font sans-serif/monospace dự phòng.
+- Ảnh dự án hiện là minh họa giao diện dựng bằng CSS, không cần tải ảnh ngoài.
